@@ -1,12 +1,12 @@
 # MyUWD
-The following folder contains two Excel files offering a dictionary modelling dataset listing untranslatable German and Italian words
+The following folder contains three Excel files offering a dictionary modelling dataset listing untranslatable German, Italian and Japanese words.
 
-It is a purposefully self-created small multilingual lexical database containing a bilingual list of word-definition pairs: each German or Italian term is paired with all its possible definitions in English retrieved from various online lexical resources, both English (Wiktionary, WordSense, Eunoia) and language-specific monolingual online dictionaries (Duden, DWDS (Digitales Wörterbuch der deutschen Sprache), and Pons for German; MultiWordNet, Treccani, Sabatini-Coletti, Hoepli, De Agostini, il nuovo De Mauro for Italian). 
+It is a purposefully self-created small multilingual lexical database containing a bilingual list of word-definition pairs: each  term in German, Italian or Japanese (Lg1) is paired with all its possible definitions in English (Lg2) retrieved from various online lexical resources, both English (Wiktionary, WordSense, Eunoia) and language-specific monolingual online dictionaries (Duden, DWDS (Digitales Wörterbuch der deutschen Sprache), and Pons for German; MultiWordNet, Treccani, Sabatini-Coletti, Hoepli, De Agostini, il nuovo De Mauro for Italian; Jisho, TanoshiiJapaneseDictionary, Nihongomaster, JapanDict, Weblio for Japanese). 
 
-For each lexical entry, a series of linguistic information are additionally given: ISO language code, POS, ambiguity, usage and meaning (for disambiguation and other info about context and frequency of usage), polysemy, frequency (for DE only), semantic field, synonyms (in English), tags, sentence examples, possible English translation of the sentence example, etymology.
+For each lexical entry, a series of linguistic information are additionally given: Transcription into ideograms and/or non-Latin characters (for JPN only), ISO language code, POS, ambiguity, usage and meaning (for disambiguation and other info about context and frequency of usage), polysemy, frequency (for DE only), semantic field, synonyms (in English), tags, sentence examples, possible English translation of the sentence example, etymology.
 
 Semantic Field
-A list of 24 categories has been here selected and systematically used to assign each word a semantic field. Inspired by Magnini et al.’s work on the role of domain information in word sense disambiguation (see https://wndomains.fbk.eu/hierarchy.html), it is firmly believed that domain information plays a big/significant part in case of ambiguity and polysemy
+A list of 24 categories has been here selected and systematically used to assign each word a semantic field. Inspired by Magnini et al.’s work on the role of domain information in word sense disambiguation (see https://wndomains.fbk.eu/hierarchy.html), it is firmly believed that domain information plays a big/significant part in case of ambiguity and polysemy.
 
 Conventional Labels
 1.	Appearance
