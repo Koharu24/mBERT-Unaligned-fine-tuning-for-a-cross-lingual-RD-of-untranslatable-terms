@@ -6,6 +6,7 @@ It is a purposefully self-created small multilingual lexical database containing
 For each lexical entry, a series of linguistic information are additionally given: Transcription into ideograms and/or non-Latin characters (for JPN only), ISO language code, POS, ambiguity, usage and meaning (for disambiguation and other info about context and frequency of usage), polysemy, frequency (for DE only), semantic field, synonyms (in English), tags, sentence examples, possible English translation of the sentence example, etymology.
 
 Semantic Field
+
 A list of 24 categories has been here selected and systematically used to assign each word a semantic field. Inspired by Magnini et al.’s work on the role of domain information in word sense disambiguation (see https://wndomains.fbk.eu/hierarchy.html), it is firmly believed that domain information plays a big/significant part in case of ambiguity and polysemy.
 
 Conventional Labels
