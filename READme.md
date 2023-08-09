@@ -9,8 +9,6 @@ Besides the full script, two folders containing the datasets used for the implem
 
 
 
-huggingface_hub == 0.5.0
-
 
 
 
