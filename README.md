@@ -1,6 +1,6 @@
 The following repository provides the full code in Python to a mBERT-based reverse dictionary (RD) for German, Italian and Japanese untranslatable words.
 
-Specifically, this project consists of a replication of Yan and colleagues' (2019) experiment on a crosslingual, unaligned RD. 
+Specifically, this project consists of a replication of Yan and colleagues' (2020) experiment on a crosslingual, unaligned RD. 
 The paper of reference can be found at the following link https://aclanthology.org/2020.findings-emnlp.388/. 
 As for the full original code, this is available on github at https://github.com/yhcc/BertForRD.git 
 
